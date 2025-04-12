@@ -1,4 +1,4 @@
-# ![](css/12-2023-ridle-card.png)
+# ![](img/title-card.png)
 
 ## Slides
 
