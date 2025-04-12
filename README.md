@@ -1,5 +1,18 @@
 # ![](img/title-card.png)
 
+
+**About Lucy Delaney's Lecture**
+Biology cannot be understood by reducing life to its parts and memorizing them. And yet, all of us who have studied biology know we are often asked to do exactly that. We memorize the difference between prokaryotes and eukaryotes, we memorize the steps of mitosis, we memorize the base pairs of DNA. We forget it and memorize it again. We all say, _The mitochondria is the powerhouse of the cell!_... but what does any of it truly mean for us? In other words, why should we care?
+
+Consider the following: are you an organism? Keep in mind that there are more prokaryotic bacterial cells living inside your body than your own eukaryotic ones. To these organisms, you are an ecosystem. In fact, the descendants of ancient bacterial organisms live inside your cells (hi, mitochondria)---right now providing you energy to evaluate if this lecture is worth your time. And what of insect colonies where only the queen can reproduce, microbial mats teeming with unicellular life that cooperatively share energy and resources, and let's not even start on viruses. The point is this: despite the constant emphasis on factual recall in the classroom, the business of living is messy and there are no definitive answers.
+
+In this talk, Lucy will discuss the complexities of sense-making in the biology classroom, and demonstrate what the subject of biology can offer in the quest to discover ourselves and create meaning of our lives.
+
+
+**About Lucy Delaney**
+Dr. Lucy Delaney is an award-winning educator that was once, a long time ago, a very bad student. While she muddled through bachelor's and master's degrees from the City University of New York in Molecular Biology, she skipped class, crammed the night before, and never went to office hours. But something changed in the final semester of her master's program---Lucy finally experienced the transformative power of wholehearted teaching. Suddenly she was a very good student. In short, Lucy discovered why she cared. After completing a PhD in Evolutionary Biology from the University of Illinois at Chicago, she arrived at UCR in 2022 with the dream of figuring out this "wholehearted teaching" thing for herself and helping others discover why they care. Her research focuses on the retention and success of students in the introductory biology sequence using a mixed-methods approach. Currently, she is funded through the Hellman Fellowship Program to produce _That's Life_, an educational television program designed to engage learners in novel ways and revive excitement in STEM.
+
+
 ## Slides
 
 Mostly hand-drawn in Goodnotes, with assistance from images below.
