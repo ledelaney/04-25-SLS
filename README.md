@@ -1,6 +1,6 @@
 # ![](img/title-card.png)
 
-# UCR College of Natural Arts and Sciences: Science Lecture Series
+# UCR College of Natural Arts and Sciences: Science Lecture Series April 2025
 
 **About Lucy Delaney's Lecture**
 
@@ -15,6 +15,8 @@ In this talk, Lucy will discuss the complexities of sense-making in the biology 
 
 Dr. Lucy Delaney is an award-winning educator that was once, a long time ago, a very bad student. While she muddled through bachelor's and master's degrees from the City University of New York in Molecular Biology, she skipped class, crammed the night before, and never went to office hours. But something changed in the final semester of her master's program---Lucy finally experienced the transformative power of wholehearted teaching. Suddenly she was a very good student. In short, Lucy discovered why she cared. After completing a PhD in Evolutionary Biology from the University of Illinois at Chicago, she arrived at UCR in 2022 with the dream of figuring out this "wholehearted teaching" thing for herself and helping others discover why they care. Her research focuses on the retention and success of students in the introductory biology sequence using a mixed-methods approach. Currently, she is funded through the Hellman Fellowship Program to produce _That's Life_, an educational television program designed to engage learners in novel ways and revive excitement in STEM.
 
+
+# Materials
 
 ## Slides
 
