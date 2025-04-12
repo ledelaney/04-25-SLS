@@ -1,6 +1,6 @@
 # ![](img/title-card.png)
 
-# UCR College of Natural Arts and Sciences: Science Lecture Series April 2025
+# UCR College of Natural Arts and Sciences: Science Lecture Series, April 2025
 
 **About Lucy Delaney's Lecture**
 
@@ -45,4 +45,4 @@ Title font from Google Fonts.
 
 ## References
 
-+ [List of references.](refs/refs.pdf)
++ [List of intellectual underpinnings and various references.](refs/refs.pdf)
