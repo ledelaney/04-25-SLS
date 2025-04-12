@@ -16,4 +16,8 @@ Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), a
 
 Title font from Google Fonts.
 
++ [Bungee Shade](https://fonts.google.com/specimen/Bungee+Shade)
+
 ## References
+
++ [List of references.](refs/refs.pdf)
